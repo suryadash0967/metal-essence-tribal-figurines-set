@@ -387,6 +387,10 @@ li img {
     justify-content: center;
     align-items: center;
 }
+.image-icon img{
+    height: 550px;
+    width: 450px;
+}
 
 
 
